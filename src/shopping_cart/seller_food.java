@@ -33,7 +33,7 @@ public class seller_food extends javax.swing.JFrame {
     jLabel3.setText(user);
     
     }
-    
+    //try
     public void show4(){
     try{
          connection = DriverManager.getConnection("jdbc:derby://localhost:1527/Shopping Cart", "ahmed", "1234");
